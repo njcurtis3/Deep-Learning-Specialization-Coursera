@@ -33,9 +33,21 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 3 - PA 5 - TensorFlow Tutorial
 
 **Course 3: Structuring Machine Learning Projects**
+- There are not programming assignments for this course
 
 **Course 4: Convolutional Neural Networks**
+- Week 1 - PA 1 - Convolutional Model: step by step
+- Week 1 - PA 2 - Convolutional Model: application
+- Week 2 - PA 1 - Keras - Tutorial - Happy House
+- Week 2 - PA 2 - Residual Networks
 
 **Course 5: Sequence Models**
+- Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
+- Week 1 - PA 2 - Character level language model - Dinosaurus land
+- Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network 
+- Week 2 - PA 1 - Operations on Word Vectors
+- Weel 2 - PA 2 - Emojify
+- Week 3 - PA 1 - Neural Machine Translation with Attention
+- Week 3 - PA 2 - Trigger Word Detection
 
 
