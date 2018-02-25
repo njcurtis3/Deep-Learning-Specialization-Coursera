@@ -42,12 +42,12 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 2 - [Residual Networks](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Networks/Week%202/Residual%20Networks%20-%20v1.ipynb)
 
 **Course 5: Sequence Models**
-- Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
-- Week 1 - PA 2 - Character level language model - Dinosaurus land
-- Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network 
-- Week 2 - PA 1 - Operations on Word Vectors
-- Week 2 - PA 2 - Emojify
-- Week 3 - PA 1 - Neural Machine Translation with Attention
-- Week 3 - PA 2 - Trigger Word Detection
+- Week 1 - [Building a Recurrent Neural Network - Step by Step](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%201/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+- Week 1 - [Character level language model - Dinosaurus land](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%201/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+- Week 1 - [Improvise a Jazz Solo with an LSTM Network](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%201/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv1.ipynb)
+- Week 2 - [Operations on Word Vectors]()
+- Week 2 - [Emojify]()
+- Week 3 - [Neural Machine Translation with Attention](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%203/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv3.ipynb)
+- Week 3 - [Trigger Word Detection](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%203/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
 
