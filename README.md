@@ -52,6 +52,13 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 
 ## Personal
 Follow me on Twitter : Nathan Curtis - [nathan_jcurtis](https://twitter.com/nathan_jcurtis)
+
 LinkedIn : [Nathan Curtis](https://www.linkedin.com/in/nathan-curtis-7a1799127/)
+
+## Frameworks
+- [Tensorflow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+
+
 
 
