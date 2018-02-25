@@ -59,6 +59,8 @@ LinkedIn : [Nathan Curtis](https://www.linkedin.com/in/nathan-curtis-7a1799127/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 
+## Certification
+![alt text](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Certificate/Coursera%20UL2LLZYWWR8M.pdf)
 
 
 
