@@ -13,6 +13,7 @@ This course is part of my continuing study of Deep Learning and AI.
 For some relevant information regarding AI, Deep Learning, and the Human brain; I recommend these books:
 
 [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=la_B001HCZVL8_1_1?s=books&ie=UTF8&qid=1519590151&sr=1-1) by Nick Bostrom
+
 [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 
