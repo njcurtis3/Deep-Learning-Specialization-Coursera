@@ -16,5 +16,9 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 
 [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
+[How to Create a Mind](https://www.amazon.com/dp/B007V65UUG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ray Kurzweil
+
+
+
 
 
