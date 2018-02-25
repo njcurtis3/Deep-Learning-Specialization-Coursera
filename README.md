@@ -26,6 +26,11 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 4 - PA 4 - Deep Neural Network for Image Classification: Application
 
 **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+- Week 1 - PA 1 - Initialization
+- Week 1 - PA 2 - Regularization
+- Week 1 - PA 3 - Gradient Checking
+- Week 2 - PA 4 - Optimization Methods
+- Week 3 - PA 5 - TensorFlow Tutorial
 
 **Course 3: Structuring Machine Learning Projects**
 
