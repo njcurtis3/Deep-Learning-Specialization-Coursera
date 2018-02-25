@@ -12,18 +12,18 @@ The material was presented in a way that is relatively basic and easy to underst
 This course is part of my continuing study of Deep Learning and AI.
 For some relevant information regarding AI, Deep Learning, and the Human brain; I recommend these books:
 
-[Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=la_B001HCZVL8_1_1?s=books&ie=UTF8&qid=1519590151&sr=1-1) by Nick Bostrom
+- [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=la_B001HCZVL8_1_1?s=books&ie=UTF8&qid=1519590151&sr=1-1) by Nick Bostrom
 
-[Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
-[How to Create a Mind](https://www.amazon.com/dp/B007V65UUG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ray Kurzweil
+- [How to Create a Mind](https://www.amazon.com/dp/B007V65UUG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ray Kurzweil
 
 ## Programming Assignments
 **Course 1: Neural Networks and Deep Learning**
-- Week 2 - PA 1 - [Logistic Regression with a Neural Network mindset](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-- Week 3 - PA 2 - [Planar data classification with one hidden layer](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-- Week 4 - PA 3 - [Building your Deep Neural Network: Step by Step](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-- Week 4 - PA 4 - [Deep Neural Network for Image Classification: Application](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+- Week 2 - [Logistic Regression with a Neural Network mindset](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+- Week 3 - [Planar data classification with one hidden layer](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+- Week 4 - [Building your Deep Neural Network: Step by Step](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+- Week 4 - [Deep Neural Network for Image Classification: Application](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 - Week 1 - PA 1 - Initialization
