@@ -60,7 +60,7 @@ LinkedIn : [Nathan Curtis](https://www.linkedin.com/in/nathan-curtis-7a1799127/)
 - [Keras](https://keras.io/)
 
 ## Certification
-![alt text](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Certificate/Coursera%20UL2LLZYWWR8M.pdf)
+![alt text](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Certificate/Deep%20Learning%20Specialization%20Certificate%202018.JPG)
 
 
 
