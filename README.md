@@ -50,4 +50,7 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 3 - [Neural Machine Translation with Attention](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%203/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv3.ipynb)
 - Week 3 - [Trigger Word Detection](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/Week%203/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
+## Personal
+Follow me on Twitter: Nathan Curtis - [nathan_jcurtis](https://twitter.com/nathan_jcurtis)
+
 
