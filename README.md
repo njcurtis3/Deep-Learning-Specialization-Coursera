@@ -26,11 +26,11 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 4 - [Deep Neural Network for Image Classification: Application](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
-- Week 1 - PA 1 - Initialization
-- Week 1 - PA 2 - Regularization
-- Week 1 - PA 3 - Gradient Checking
-- Week 2 - PA 4 - Optimization Methods
-- Week 3 - PA 5 - TensorFlow Tutorial
+- Week 1 - [Initialization](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
+- Week 1 - [Regularization](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization.ipynb)
+- Week 1 - [Gradient Checking](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking.ipynb)
+- Week 2 - [Optimization Methods](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization%20methods.ipynb)
+- Week 3 - [TensorFlow Tutorial](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Tensorflow%20Tutorial.ipynb)
 
 **Course 3: Structuring Machine Learning Projects**
 - There are not programming assignments for this course
