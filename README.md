@@ -20,7 +20,7 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 
 ## Programming Assignments
 **Course 1: Neural Networks and Deep Learning**
-- Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
+- Week 2 - PA 1 - [Logistic Regression with a Neural Network mindset](https://github.com/njcurtis3/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 - Week 3 - PA 2 - Planar data classification with one hidden layer
 - Week 4 - PA 3 - Building your Deep Neural Network: Step by Step
 - Week 4 - PA 4 - Deep Neural Network for Image Classification: Application
@@ -46,7 +46,7 @@ For some relevant information regarding AI, Deep Learning, and the Human brain; 
 - Week 1 - PA 2 - Character level language model - Dinosaurus land
 - Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network 
 - Week 2 - PA 1 - Operations on Word Vectors
-- Weel 2 - PA 2 - Emojify
+- Week 2 - PA 2 - Emojify
 - Week 3 - PA 1 - Neural Machine Translation with Attention
 - Week 3 - PA 2 - Trigger Word Detection
 
